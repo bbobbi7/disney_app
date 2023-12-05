@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bbobbi7/disney_app.git/static/css/main.f855e6bc.css",
-    "main.js": "/bbobbi7/disney_app.git/static/js/main.34e5c873.js",
-    "static/js/787.b5de7b0b.chunk.js": "/bbobbi7/disney_app.git/static/js/787.b5de7b0b.chunk.js",
-    "index.html": "/bbobbi7/disney_app.git/index.html",
-    "main.f855e6bc.css.map": "/bbobbi7/disney_app.git/static/css/main.f855e6bc.css.map",
-    "main.34e5c873.js.map": "/bbobbi7/disney_app.git/static/js/main.34e5c873.js.map",
-    "787.b5de7b0b.chunk.js.map": "/bbobbi7/disney_app.git/static/js/787.b5de7b0b.chunk.js.map"
+    "main.css": "/disney_app/static/css/main.f855e6bc.css",
+    "main.js": "/disney_app/static/js/main.7bbd08cc.js",
+    "static/js/787.b5de7b0b.chunk.js": "/disney_app/static/js/787.b5de7b0b.chunk.js",
+    "index.html": "/disney_app/index.html",
+    "main.f855e6bc.css.map": "/disney_app/static/css/main.f855e6bc.css.map",
+    "main.7bbd08cc.js.map": "/disney_app/static/js/main.7bbd08cc.js.map",
+    "787.b5de7b0b.chunk.js.map": "/disney_app/static/js/787.b5de7b0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.34e5c873.js"
+    "static/js/main.7bbd08cc.js"
   ]
 }
